@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:heart: What inspires me:
+- Creating docs for developers
+- Establishing order out of chaos
+- Making customers happy
+- Reducing support-related expenses
+- Meeting deadlines
+- Writing only one sentence per line
+- Using Oxford commas
