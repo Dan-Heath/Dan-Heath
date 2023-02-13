@@ -26,3 +26,6 @@ I pride myself on being empathetic, flexible, and intellectually curious.
 - Meeting deadlines
 - Writing only one sentence per line
 - Using Oxford commas
+
+🔭 I’m currently working on HashiCorp Boundary.
+😄 Pronouns: He/Him/His
