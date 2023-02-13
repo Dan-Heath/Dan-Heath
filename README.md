@@ -30,3 +30,6 @@ I pride myself on being empathetic, flexible, and intellectually curious.
 🔭 I’m currently working on HashiCorp Boundary.
 
 😄 Pronouns: He/Him/His
+
+📫 How to reach me: [LinkedIn
+](https://www.linkedin.com/in/dan-heath-writer/)
