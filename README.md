@@ -28,4 +28,5 @@ I pride myself on being empathetic, flexible, and intellectually curious.
 - Using Oxford commas
 
 🔭 I’m currently working on HashiCorp Boundary.
+
 😄 Pronouns: He/Him/His
